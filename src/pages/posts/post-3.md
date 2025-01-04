@@ -10,8 +10,8 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 
-# Three.
+## Three.
 
-## the third post
+### the third post
 
 Here is post number three. 
